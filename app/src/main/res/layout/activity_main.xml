@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Theme.AppCompat.DayNight.NoActionBar"
+    android:background="@drawable/putoelqueleecomoleo"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_height="160dp"
+        android:layout_width="160dp"
+        android:layout_marginTop="75dp"
+        android:rotation="23"
+        android:src="@drawable/ic_satellite_dish"
+        android:id="@+id/nasAppImg"/>
+
+    <include layout="@layout/bottom_sheet"
+         />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

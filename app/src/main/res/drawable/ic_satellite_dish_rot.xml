@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="23"
+    android:toDegrees="0"
+    android:pivotX="40%"
+    android:pivotY="40%"
+    android:drawable="@drawable/ic_satellite_dish">
+</rotate>

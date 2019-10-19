@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NasApp</string>
+    <string name="instruments">Instruments</string>
+    <string name="routes">Route</string>
+    <string name="nextto">Will be again</string>
+    <string name="mapto">Where is ?</string>
+    <string name="radialScope">800m (Ground Distance)</string>
+</resources>
